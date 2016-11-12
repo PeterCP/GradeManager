@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GradeManager</string>
+
+    <!-- App menu values -->
+    <string name="action_add_student">Agregar estudiante</string>
+
+    <!-- Activity values -->
+    <string name="label_id">Matrícula</string>
+    <string name="label_name">Nombre</string>
+    <string name="label_grade">Promedio</string>
+    <string name="hint_search">Buscar estudiante</string>
+    <string name="form_title">Agregar estudiante</string>
+    <string name="btn_submit">Guardar</string>
+
+</resources>
